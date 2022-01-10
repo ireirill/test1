@@ -1,3 +1,3 @@
 # test1
 
-# Esta es mi primera edición desde GeeksHub Academy.
+Esta es mi primera edición del documento.
