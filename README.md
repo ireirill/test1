@@ -1,4 +1,9 @@
-# test1
+# README for test1
 
-Esta es mi primera edición del documento.
-Voy a probar a modificarlo.
+## Table of Contents
+- [How to run 🚀](#How-to-run-)
+- [DB 💾](#DB-)
+- [Backend 🔚](#Backend-)
+    - [User endpoints 🦸](#USER)
+    - [Product endpoints 💻](#MOVIE)
+- [Frontend 👀](#Frontend-)
